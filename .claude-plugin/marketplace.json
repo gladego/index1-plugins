@@ -1,0 +1,27 @@
+{
+  "name": "index1-marketplace",
+  "owner": {
+    "name": "gladego"
+  },
+  "metadata": {
+    "description": "index1: AI-native project knowledge base with BM25 + vector hybrid search",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "index1",
+      "source": "./plugins/index1",
+      "description": "Project knowledge base with MCP search tools, search strategy rules, and utility skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "gladego"
+      },
+      "homepage": "https://github.com/gladego/index1",
+      "repository": "https://github.com/gladego/index1",
+      "license": "Apache-2.0",
+      "keywords": ["mcp", "knowledge-base", "semantic-search", "bm25", "rag", "code-search"],
+      "category": "search",
+      "tags": ["search", "mcp", "rag"]
+    }
+  ]
+}
