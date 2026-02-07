@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "index1: AI-native project knowledge base with BM25 + vector hybrid search",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
       "name": "index1",
       "source": "./plugins/index1",
       "description": "Project knowledge base with MCP search tools, search strategy rules, and utility skills",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "gladego"
       },
