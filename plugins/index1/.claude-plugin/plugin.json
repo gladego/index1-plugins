@@ -1,15 +1,15 @@
 {
   "name": "index1",
   "description": "AI-native project knowledge base. BM25 + vector hybrid search via MCP Server with search strategy rules.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "gladego"
   },
   "license": "Apache-2.0",
   "mcpServers": {
     "index1": {
-      "command": "index1",
-      "args": ["serve"]
+      "command": "node",
+      "args": ["bin/serve.js"]
     }
   }
 }
