@@ -1,7 +1,7 @@
 {
   "name": "index1",
   "description": "AI-native project knowledge base. BM25 + vector hybrid search via MCP Server with search strategy rules.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": {
     "name": "gladego"
   },
