@@ -2,7 +2,7 @@
 description: Semantic search project code with index1
 ---
 
-Use `docs_search` to search for the user's query.
+Use `recall` to search for the user's query.
 
 After searching:
 1. List top-5 results with file names and summaries

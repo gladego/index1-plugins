@@ -4,15 +4,15 @@
     "name": "gladego"
   },
   "metadata": {
-    "description": "index1: AI-native project knowledge base with BM25 + vector hybrid search",
-    "version": "2.0.1"
+    "description": "index1: AI memory system for coding agents — code index + cognitive facts",
+    "version": "2.0.2"
   },
   "plugins": [
     {
       "name": "index1",
       "source": "./plugins/index1",
-      "description": "Project knowledge base with MCP search tools, search strategy rules, and utility skills. Auto-installs Python package if needed.",
-      "version": "2.0.1",
+      "description": "AI memory system with MCP search tools, cognitive fact recording, search strategy rules, and utility skills.",
+      "version": "2.0.2",
       "author": {
         "name": "gladego"
       },
