@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "index1: AI memory system for coding agents — code index + cognitive facts",
-    "version": "2.0.2"
+    "version": "2.0.3"
   },
   "plugins": [
     {
       "name": "index1",
       "source": "./plugins/index1",
       "description": "AI memory system with MCP search tools, cognitive fact recording, search strategy rules, and utility skills.",
-      "version": "2.0.2",
+      "version": "2.0.3",
       "author": {
         "name": "gladego"
       },
